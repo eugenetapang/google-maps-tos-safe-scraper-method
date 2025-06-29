@@ -1,4 +1,4 @@
-# google-maps-tos-safe-scraper-method
+# Google Maps Results Data Collector - TOS Safe Scraping Method | Human-In-The-Loop-Sucka
 
 Excellent question. This is a perfect use case for Google Workspace's built-in tools. We can create a "semi-automated" system that dramatically speeds up the manual collection process without violating any terms of service, as you are still the one performing the search and identifying the data.
 
